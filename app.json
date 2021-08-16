@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Medicos",
-    "slug": "Medicos",
+    "name": "MediQuick",
+    "slug": "MediQuick",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,6 +23,13 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.mediquick.mediquick",
+      "versionCode": 1,
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyAQANy9_WRe6QpdfYFE8HSiBGE4goovb7Q"
+        }
       }
     },
     "web": {

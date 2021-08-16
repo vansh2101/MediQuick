@@ -1,0 +1,13 @@
+export const Msgs = {
+    'heart attack': 'SYMPTOMS:- \nMen may have cold sweats, and pain may be felt descending through the left arm. Women are more likely to have shortness of breath, stomach upset, dizziness, and tiredness. \n\nTREATMENT:- \nan aspirin tablet can lower the risk of clot formation. Allow the patient to sit in a comfortable position. Hands-only cardiopulmonary resuscitation (CPR) can double the chances of survival',
+
+    'head injury': 'SYMPTOMS:- \nnausea, headache, dizziness, loss of consciousness for some time,state of confusion or memory loss, ringing in the ears, blurring of vision, changes in taste and smell, and photophobia. \n\nTREATMENT:- \nIf unconscious, do not move the victim till medical help has arrived. If bleeding is present, firmly press one or more cloths on the wound. Apply ice packs to the swollen areas.',
+
+    'burns': "If burns are caused by heat, immediately cool the burns with cold water till the pain gets relieved. Do not use ice blocks to cool the burns as it may cause more damage to the skin. Cover the burns with a sterile dressing.\
+    \n\nIn the case of electrical burns which usually cause internal damage with a small external burn, be very cautious not to get yourself into trouble. Turn off the power and then rescue the victim. Assess the need for CPR and provide it.\
+    \n\nIf the burns are due to spillage of chemicals, remove the chemicals from the skin using a cloth or with gloved hands. Remove the contaminated clothing carefully and be cautious not to contaminate yourself.",
+
+    'stroke': 'SYMPTOMS:- \nSpeech weakness, Facial weakness, Arm weakness, blurring of vision, severe headache, dizziness and sudden fall. \n\nTREATMENT:- \nif you notice these symptoms, treatment needs to be provided by the medical experts within 3-4 hours for the survival of the victim.',
+
+    'convulsion': 'SYMPTOMS:- \nshaking of the entire body, drooling or frothing at the mouth, behavioral changes, abnormal eye movements, grunting, snorting, and clenching of the teeth. \n\nTREATMENT:- \nDo not hold the victim to suppress the shaking movements. Lay down the person to prevent falls. Remove any objects present around to protect the head. Do not put anything in the mouth as tongue biting and bleeding from the mouth are common. Loosen the clothing especially near the neck. Reassure the victim until recovery or medical team arrives.'
+}
