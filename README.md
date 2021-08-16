@@ -1,4 +1,7 @@
 # MediQuick
+![plot](./assets/logo.png)
+
+
 MediQuick is an android app that can search nearby hospitals and pharmacies and can call the nearest ambulance to your location in case of any emergency. While calling the ambulance, the user can chat with the DOCTO BOT(a doctor bot) asking it to suggest some measures to keep the patient alive till the ambulance comes. 
 
 The app is built on React Native(a javascript framework for building cross-platform apps).
