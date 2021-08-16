@@ -20,4 +20,10 @@ To build a .apk for this project, run the following command:-
 2) `expo build:android` for android devices and `expo build:ios` for ios devices.
 
 
-![plot](./app_screenshots/ss1.jpg)
+![Screenshot](app_screenshots/ss1.jpg)
+
+![Screenshot](app_screenshots/ss2.jpg)
+
+![Screenshot](app_screenshots/ss3.jpg)
+
+![Screenshot](app_screenshots/ss4.jpg)
