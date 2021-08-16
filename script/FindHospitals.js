@@ -5,7 +5,7 @@ import {Marker} from 'react-native-maps';
 import MapViewDirections from 'react-native-maps-directions';
 
 
-const API_KEY = 'AIzaSyAQANy9_WRe6QpdfYFE8HSiBGE4goovb7Q'
+const API_KEY = '<YOUR GOOGLE MAPS API KEY>'
 
 
 async function nearby(lat, lng){
