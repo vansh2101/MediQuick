@@ -28,7 +28,7 @@
       "versionCode": 1,
       "config": {
         "googleMaps": {
-          "apiKey": process.env.API_KEY
+          "apiKey": process.env['API_KEY']
         }
       }
     },
