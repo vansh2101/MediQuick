@@ -20,10 +20,10 @@ To build a .apk for this project, run the following command:-
 2) `expo build:android` for android devices and `expo build:ios` for ios devices.
 
 
-![Screenshot](app_screenshots/ss1.jpg)
+<a href="url"><img src="https://github.com/vansh2101/MediQuick/blob/main/app_screenshots/ss1.jpg" height="70%" width="51%" ></a>
 
-![Screenshot](app_screenshots/ss2.jpg)
+<a href="url"><img src="https://github.com/vansh2101/MediQuick/blob/main/app_screenshots/ss2.jpg" height="70%" width="51%" ></a>
 
-![Screenshot](app_screenshots/ss3.jpg)
+<a href="url"><img src="https://github.com/vansh2101/MediQuick/blob/main/app_screenshots/ss3.jpg" height="70%" width="51%" ></a>
 
-![Screenshot](app_screenshots/ss4.jpg)
+<a href="url"><img src="https://github.com/vansh2101/MediQuick/blob/main/app_screenshots/ss4.jpg" height="70%" width="51%" ></a>
